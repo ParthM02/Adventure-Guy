@@ -6,6 +6,8 @@ All my code has comments to show why each line of code was written and its purpo
 
 This object of this game is basically reach the end of each level while scoring as many points as possible.
 
+I've also included what would have been the background music for the game but I never figured out how to put it in without exceptions or errors.
+
 ## Installation
 There will be a .jar file in the repository where the game can be downloaded.
 Once downloaded, simply open the file to play the game.
