@@ -39,7 +39,7 @@ The author of this code is Parth Mehta or @ParthM02.
 Assets used for images may not be original and may have been repurposed from the internet.
 
 ## License
-This project is not licensed and therefore cannot be copied or modified without my permission.
+Don't have a license yet, will add one in the future.
 
 ## Project Status
 This project is finished and production has stopped completely for the foreseeable future.
