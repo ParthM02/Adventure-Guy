@@ -9,8 +9,13 @@ This object of this game is basically reach the end of each level while scoring 
 I've also included what would have been the background music for the game but I never figured out how to put it in without exceptions or errors.
 
 ## Installation
-There will be a .jar file in the repository where the game can be downloaded.
-Once downloaded, simply open the file to play the game.
+To install the game, simply download the .jar file from the repository. Then to play the game, you need to open the file to run it. You also need to make sure the Java JDK is installed on your computer.
+
+You may encounter some problems running the file on Mac, mainly with a warning saying that the game is from an unidentified developer. This warning can be circumvented by two-finger clicking on the file and clicking the "open" option in the drop down. Then a new warning will pop up with an option asking you if you still want to open it which you will click "open" again. Then, you will be prompted to enter your macs username and password which is required to whitelist the game from your software blocker.
+
+To my knowledge, you will not encounter a similar problem on windows. However, if you do, there are numerous forums and help for running .jar files from unidentified developers.
+
+Please note, despite the warnings, I assure you that this game does not contain any malicious or harmful code and that this is simply a project.
 
 ## Usage
 1. Use Arrow Keys to move and jump.
